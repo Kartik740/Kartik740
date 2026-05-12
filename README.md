@@ -25,33 +25,60 @@
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 ### Languages
 - C++
 - Python
 - Java
-- JavaScript (ES6+)
+- JavaScript
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Frontend
 - React.js
 - HTML5
 - CSS3
 
-### Backend
+</td>
+
+<td valign="top" width="33%">
+
+### Backend & Database
 - Node.js
 - Express.js
-- REST APIs
-
-### Database
 - PostgreSQL
 - SQL
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Tools & Platforms
 - Git & GitHub
 - Postman
 - VS Code
+
+</td>
+
+<td valign="top" width="50%">
+
+### Other Technologies
 - Firebase
 - Flutter
+- REST APIs
 
+</td>
+</tr>
+</table>
 ---
 
 ## 📌 Featured Projects
