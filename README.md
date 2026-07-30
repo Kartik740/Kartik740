@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Second-year CSE undergraduate at **VIT**
-- 📈 Current CGPA: **9.04/10**
+- 🎓 Pre-final year CSE undergraduate at **VIT**
+- 📈 Current CGPA: **9.0/10**
 - 🤖 Interested in **AI-powered applications**, scalable backend systems, and real-world problem solving
 - 💻 Building projects using **React, Node.js, PostgreSQL, and Java**
 - 🧠 Strong foundation in **DSA, REST APIs, and Object-Oriented Programming**
